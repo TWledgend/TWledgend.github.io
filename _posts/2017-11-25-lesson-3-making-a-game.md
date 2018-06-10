@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>lesson 3: making a game</td>
     <td>Date</td>
-    <td>23/11/17</td>
+    <td>30/11/17</td>
   </tr>
 </table>
 
