@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Lesson 18 understanding the threats of social media</td>
     <td>Date</td>
-    <td>01/01/01</td>
+    <td>27/04/18</td>
   </tr>
 </table>
 
