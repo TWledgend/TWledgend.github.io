@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>lesson 22 More on internet safety</td>
     <td>Date</td>
-    <td>25/06/18</td>
+    <td>22/06/18</td>
   </tr>
 </table>
 
